@@ -1,0 +1,5 @@
+streamlit
+openai
+shapely
+numpy
+ultralytics
